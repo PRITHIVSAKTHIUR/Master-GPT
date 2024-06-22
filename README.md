@@ -37,7 +37,7 @@ To Clone the Repo :
 
 ## Sample Screenshots 1
 
-![alt text](images/mg.png)
+![alt text](images/mg1.png)
 
 ## Sample Screenshots 2
 
