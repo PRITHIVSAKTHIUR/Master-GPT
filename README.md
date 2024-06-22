@@ -35,3 +35,10 @@ To Clone the Repo :
     
     GIT_LFS_SKIP_SMUDGE=1 git clone https://huggingface.co/spaces/prithivMLmods/Master-Gpt
 
+## Sample Screenshots 1
+
+![alt text](images/mg.png)
+
+## Sample Screenshots 2
+
+![alt text](images/mg2.png)
