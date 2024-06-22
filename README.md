@@ -17,7 +17,7 @@ header: mini
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
 
 
-![alt text](assets/2.png)
+![alt text](assets/images/2.png)
 
  
 Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
