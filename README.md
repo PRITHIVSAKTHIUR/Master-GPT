@@ -42,3 +42,9 @@ To Clone the Repo :
 ## Sample Screenshots 2
 
 ![alt text](images/mg2.png)
+
+.
+
+.
+
+.
